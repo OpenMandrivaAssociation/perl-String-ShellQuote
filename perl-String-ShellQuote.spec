@@ -1,7 +1,7 @@
 %define module String-ShellQuote
 %define name perl-%{module}
 %define version 1.03
-%define release %mkrel 2
+%define release %mkrel 3
 
 Summary:	Quote strings for passing through the shell
 Name:		%{name}
