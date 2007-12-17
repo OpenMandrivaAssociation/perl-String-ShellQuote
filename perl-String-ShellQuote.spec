@@ -13,7 +13,6 @@ Source:		http://www.perl.com/CPAN-local/authors/id/R/RO/ROSCH/String-ShellQuote-
 URL:		http://search.cpan.org/dist/%{module}
 BuildRequires:	perl-devel
 BuildArch:	noarch
-BuildRoot:	%{_tmppath}/%{name}-%{version}-%{release}-buildroot
 
 %description
 This perl module contains some functions which are useful for quoting strings
