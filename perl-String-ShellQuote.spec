@@ -3,7 +3,7 @@
 
 Name:       perl-%{upstream_name}
 Version:    %perl_convert_version %{upstream_version}
-Release:    8
+Release:    9
 
 Summary:	Quote strings for passing through the shell
 License:	GPL+ or Artistic
