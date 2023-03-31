@@ -4,7 +4,7 @@
 Summary:	Quote strings for passing through the shell
 Name:		perl-%{modname}
 Version:	%perl_convert_version %{modver}
-Release:	21
+Release:	22
 License:	GPLv2+ or Artistic
 Group:		Development/Perl
 Url:		http://search.cpan.org/dist/%{modname}
