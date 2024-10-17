@@ -7,7 +7,7 @@ Version:	%perl_convert_version %{modver}
 Release:	22
 License:	GPLv2+ or Artistic
 Group:		Development/Perl
-Url:		http://search.cpan.org/dist/%{modname}
+Url:		https://search.cpan.org/dist/%{modname}
 Source0:	http://www.perl.com/CPAN-local/authors/id/R/RO/ROSCH/String-ShellQuote-%{modver}.tar.gz
 BuildArch:	noarch
 BuildRequires:	perl-devel
