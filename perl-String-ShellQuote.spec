@@ -3,12 +3,12 @@
 
 Summary:	Quote strings for passing through the shell
 Name:		perl-%{modname}
-Version:	%perl_convert_version %{modver}
-Release:	22
+Version:	%{modver}
+Release:	23
 License:	GPLv2+ or Artistic
 Group:		Development/Perl
-Url:		https://search.cpan.org/dist/%{modname}
-Source0:	http://www.perl.com/CPAN-local/authors/id/R/RO/ROSCH/String-ShellQuote-%{modver}.tar.gz
+Url:		https://metacpan.org/dist/String-ShellQuote
+Source0:	https://cpan.metacpan.org/authors/id/R/RO/ROSCH/String-ShellQuote-%{modver}.tar.gz
 BuildArch:	noarch
 BuildRequires:	make
 BuildRequires:	perl-devel
